@@ -1,0 +1,17 @@
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\bin\Debug\net7.0\LeaveManagementSystem.Persistence.deps.json
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\bin\Debug\net7.0\LeaveManagementSystem.Persistence.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\bin\Debug\net7.0\LeaveManagementSystem.Persistence.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\bin\Debug\net7.0\LeaveManagementSystem.Domain.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\bin\Debug\net7.0\LeaveManagementSystem.Domain.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.csproj.AssemblyReference.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.AssemblyInfoInputs.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.AssemblyInfo.cs
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.csproj.CopyComplete
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\refint\LeaveManagementSystem.Persistence.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\ref\LeaveManagementSystem.Persistence.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\bin\Debug\net7.0\LeaveManagementSystem.Persistence.runtimeconfig.json
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Persistence\obj\Debug\net7.0\LeaveManagementSystem.Persistence.genruntimeconfig.cache

@@ -1,0 +1,42 @@
+﻿version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: api
+    ports:
+      - "8080:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Data Source=/data/db.sqlite
+    volumes:
+      - ./data:/data
+    depends_on:
+      - sqlite
+    networks:
+      - app-network
+
+  sqlite:
+    image: nouchka/sqlite
+    container_name: sqlite
+    volumes:
+      - ./data:/data
+    networks:
+      - app-network
+
+  leavemanagementsystem:
+    image: leavemanagementsystem
+    build:
+      context: .
+      dockerfile: LeaveManagementSystem/Dockerfile
+    container_name: leavemanagementsystem
+    ports:
+      - "8081:80" 
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

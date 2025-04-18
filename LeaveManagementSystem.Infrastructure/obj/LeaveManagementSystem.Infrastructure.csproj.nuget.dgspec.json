@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Infrastructure\\LeaveManagementSystem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Application\\LeaveManagementSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Application\\LeaveManagementSystem.Application.csproj",
+        "projectName": "LeaveManagementSystem.Application",
+        "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Application\\LeaveManagementSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\mkharchich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mkharchich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\LeaveManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\LeaveManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\LeaveManagementSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\LeaveManagementSystem.Domain.csproj",
+        "projectName": "LeaveManagementSystem.Domain",
+        "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\LeaveManagementSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\mkharchich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mkharchich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Infrastructure\\LeaveManagementSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Infrastructure\\LeaveManagementSystem.Infrastructure.csproj",
+        "projectName": "LeaveManagementSystem.Infrastructure",
+        "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Infrastructure\\LeaveManagementSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mkharchich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mkharchich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Application\\LeaveManagementSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Application\\LeaveManagementSystem.Application.csproj"
+              },
+              "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Persistence\\LeaveManagementSystem.Persistence.csproj": {
+                "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Persistence\\LeaveManagementSystem.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.3.8, )"
+            },
+            "LinqKit.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Persistence\\LeaveManagementSystem.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Persistence\\LeaveManagementSystem.Persistence.csproj",
+        "projectName": "LeaveManagementSystem.Persistence",
+        "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Persistence\\LeaveManagementSystem.Persistence.csproj",
+        "packagesPath": "C:\\Users\\mkharchich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mkharchich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\LeaveManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\mkharchich\\Desktop\\Entretien\\LeaveManagementSystem\\LeaveManagementSystem.Domain\\LeaveManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

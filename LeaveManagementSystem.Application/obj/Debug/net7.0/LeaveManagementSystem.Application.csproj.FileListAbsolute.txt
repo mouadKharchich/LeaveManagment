@@ -1,0 +1,15 @@
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\bin\Debug\net7.0\LeaveManagementSystem.Application.deps.json
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\bin\Debug\net7.0\LeaveManagementSystem.Application.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\bin\Debug\net7.0\LeaveManagementSystem.Application.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\bin\Debug\net7.0\LeaveManagementSystem.Domain.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\bin\Debug\net7.0\LeaveManagementSystem.Domain.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.csproj.AssemblyReference.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.AssemblyInfo.cs
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.csproj.CopyComplete
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\refint\LeaveManagementSystem.Application.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\LeaveManagementSystem.Application.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Application\obj\Debug\net7.0\ref\LeaveManagementSystem.Application.dll

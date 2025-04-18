@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagementSystem", "LeaveManagementSystem\LeaveManagementSystem.csproj", "{4D5AB121-8AD8-40EF-92C9-EAF956931145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagementSystem.Domain", "LeaveManagementSystem.Domain\LeaveManagementSystem.Domain.csproj", "{DA661BA5-AE12-45EF-8F0F-69A6D6506F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagementSystem.Persistence", "LeaveManagementSystem.Persistence\LeaveManagementSystem.Persistence.csproj", "{367D9F8B-30B7-48AC-8B99-F01239D7593F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagementSystem.Application", "LeaveManagementSystem.Application\LeaveManagementSystem.Application.csproj", "{FF475C63-D250-4989-85AD-D5373A1D6E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagementSystem.Infrastructure", "LeaveManagementSystem.Infrastructure\LeaveManagementSystem.Infrastructure.csproj", "{DD2B226D-7D14-4A78-ADE3-38275A71DA18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{682FBD6B-46E4-4B4A-B217-2C28A28DCA17}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5AB121-8AD8-40EF-92C9-EAF956931145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5AB121-8AD8-40EF-92C9-EAF956931145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5AB121-8AD8-40EF-92C9-EAF956931145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5AB121-8AD8-40EF-92C9-EAF956931145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA661BA5-AE12-45EF-8F0F-69A6D6506F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA661BA5-AE12-45EF-8F0F-69A6D6506F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA661BA5-AE12-45EF-8F0F-69A6D6506F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA661BA5-AE12-45EF-8F0F-69A6D6506F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367D9F8B-30B7-48AC-8B99-F01239D7593F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367D9F8B-30B7-48AC-8B99-F01239D7593F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367D9F8B-30B7-48AC-8B99-F01239D7593F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367D9F8B-30B7-48AC-8B99-F01239D7593F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF475C63-D250-4989-85AD-D5373A1D6E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF475C63-D250-4989-85AD-D5373A1D6E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF475C63-D250-4989-85AD-D5373A1D6E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF475C63-D250-4989-85AD-D5373A1D6E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2B226D-7D14-4A78-ADE3-38275A71DA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2B226D-7D14-4A78-ADE3-38275A71DA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2B226D-7D14-4A78-ADE3-38275A71DA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2B226D-7D14-4A78-ADE3-38275A71DA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

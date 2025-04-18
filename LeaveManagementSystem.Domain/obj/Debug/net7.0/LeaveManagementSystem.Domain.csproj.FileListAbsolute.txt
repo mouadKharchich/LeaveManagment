@@ -1,0 +1,12 @@
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\bin\Debug\net7.0\LeaveManagementSystem.Domain.deps.json
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\bin\Debug\net7.0\LeaveManagementSystem.Domain.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\bin\Debug\net7.0\LeaveManagementSystem.Domain.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\LeaveManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\LeaveManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\LeaveManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\LeaveManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\LeaveManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\LeaveManagementSystem.Domain.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\refint\LeaveManagementSystem.Domain.dll
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\LeaveManagementSystem.Domain.pdb
+C:\Users\mkharchich\Desktop\Entretien\LeaveManagementSystem\LeaveManagementSystem.Domain\obj\Debug\net7.0\ref\LeaveManagementSystem.Domain.dll
